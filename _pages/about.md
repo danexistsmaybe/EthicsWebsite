@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ---
-Hello! I'm Dan, a senior at St. Olaf college. My main area of study and research is computer science, but I also study mathematics, data science, and English. More specifically, I have completed paid, Summer research projects in robotics and automated reasoning, but I am still looking for a professional vocation among fields like machine learning, biotechnology, and quantum computing. Also, this isn't my portfolio website! You can find that [here](https://www.danexistsmaybe.xyz).
+Hello! I'm Dan, a senior at St. Olaf college. My main area of study and research is computer science, but I also study mathematics, data science, and English. More specifically, I have completed paid, Summer research projects in robotics and automated reasoning, but I am still looking for a professional vocation among fields like machine learning, biotechnology, and quantum computing. Also, this isn't my portfolio website! You can find that [here](https://danexistsmaybe.xyz/).
 
 Research 
 ---
