@@ -23,12 +23,12 @@ repository               : "https://github.com/damexistsmaybe/EthicsWebsite"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "First Last" #update
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left hand sidebar"
+  name             : "Daniel Evans" #update
+  pronouns         : "he/him"  
+  bio              : "Computer Scientist / Student"
   employer         : "St. Olaf College"
-  uri              : # URL
-  email            : #"[username]@stolaf.edu" #update
+  uri              : "https://www.linkedin.com/in/daniel-evans-61bb73169/"
+  email            : "danevans264@gmail.com"
 
   # links
   academia         : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "username"
+  github           : "danexistsmaybe"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
   artstation       : # Username
