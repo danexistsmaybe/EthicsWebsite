@@ -15,7 +15,7 @@ name                     : &name
 description              : &description 
 url                      : https://danexistsmaybe.github.io/EthicsWebsite #  Use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/damexistsmaybe/EthicsWebsite" 
+repository               : "danexistsmaybe/EthicsWebsite" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

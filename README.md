@@ -12,3 +12,5 @@ This website is for you to host your reflections on our case study readings, con
 7. While you wait for Codespaces to load, find a profile picture. This can be a photo of yourself or any avatar you like. Save the file as profile.jpg and upload it to the images folder through GitHub's web interface. Note: You'll be replacing the existing profile.png file with your new profile.jpg file.
 8. View _config.yml. Go to Basic Site Settings and update your name, url, and repo. Replace placeholder information with your own. Then scroll down to links and update to your liking.
 9. View about.md in _pages. Update your name from the placeholder. This page will need to be updated with your information by the deadline in the course schedule.
+
+bundle exec jekyll serve -l -H localhost
