@@ -8,4 +8,4 @@ audio: EthicsWebsite/files/pod3.mp3
 video: EthicsWebsite/files/pod3.mp4
 ---
 
-![Plot of Pravda articles](files/pravda.png)
+![Plot of Pravda articles](https://raw.githubusercontent.com/danexistsmaybe/EthicsWebsite/refs/heads/master/files/pravda.png)
