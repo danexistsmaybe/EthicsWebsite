@@ -106,7 +106,7 @@ D. Harris, “Open-Source AI is Uniquely Dangerous,” IEEE Spectrum, Jan 12, 20
 
 *Focus on emerging developers*
 
-## Open Source: For the People Under Capitalism
+## Open Source: Profit Motives
 *How open source has been useful for corporations*
 
 A. Brock, et al., “Open Source Law, Policy and Practice,” 2nd Edition, Oxford Press, 2022.
