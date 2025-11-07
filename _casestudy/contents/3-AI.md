@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/ai
+permalink: /subpages/ai
 title: "Open Source AI"
 author_profile: true
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/stakeholder-consumers
+permalink: /subpages/stakeholder-consumers
 title: "Stakeholder 1: Consumers"
 author_profile: true
 ---
