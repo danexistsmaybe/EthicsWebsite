@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/full
+permalink: /subpages/full
 title: "Case Study"
 author_profile: true
 ---

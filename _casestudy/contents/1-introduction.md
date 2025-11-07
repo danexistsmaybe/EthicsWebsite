@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/intro
+permalink: /subpages/intro
 title: "Introduction"
 author_profile: true
 ---
