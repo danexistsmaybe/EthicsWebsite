@@ -1,7 +1,6 @@
 ---
-permalink: /casestudy/
-title: "Open Source: Beyond the Grave (Outline)"
-author_profile: true
+title: "Case Study"
+layout: default
 ---
 
 ## Abstract
@@ -10,8 +9,6 @@ I will write this last.
 **Dan E**
 
 *Student researcher at St. Olaf College*
-
-*Read the full article [here](../_casestudy/casestudy).
 
 ## Contents
 1. [Learning Objectives](#learning-objectives)
