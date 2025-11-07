@@ -11,15 +11,15 @@ I will write this last.
 
 *Student researcher at St. Olaf College*
 
-*Read the full article [here](/EthicsWebsite/casestudy/full/).*
+*Read the full article [here](/EthicsWebsite/subpages/full/).*
 
 ## Contents
 1. [Learning Objectives and Introduction](/EthicsWebsite/subpages/intro/)
-2. [History and Intentions of the Open Source Movement](/EthicsWebsite/casestudy/history)
-3. [Open Source AI](/EthicsWebsite/casestudy/ai)
-4. [Stakeholder 1: Consumers](/EthicsWebsite/casestudy/stakeholder-consumers)
-5. [Stakeholder 2: Developers](/EthicsWebsite/casestudy/stakeholder-developers)
-6. [Open Source: Profit Motives](/EthicsWebsite/casestudy/profit-motives)
-7. [Conclusion and Discussion Questions](/EthicsWebsite/casestudy/conclusion)
-9. [Works Cited](/EthicsWebsite/casestudy/citations)
+2. [History and Intentions of the Open Source Movement](/EthicsWebsite/subpages/history)
+3. [Open Source AI](/EthicsWebsite/subpages/ai)
+4. [Stakeholder 1: Consumers](/EthicsWebsite/subpages/stakeholder-consumers)
+5. [Stakeholder 2: Developers](/EthicsWebsite/subpages/stakeholder-developers)
+6. [Open Source: Profit Motives](/EthicsWebsite/subpages/profit-motives)
+7. [Conclusion and Discussion Questions](/EthicsWebsite/subpages/conclusion)
+9. [Works Cited](/EthicsWebsite/subpages/citations)
 
