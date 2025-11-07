@@ -11,15 +11,15 @@ I will write this last.
 
 *Student researcher at St. Olaf College*
 
-*Read the full article [here](/casestudy/full).
+*Read the full article [here](/casestudy/full).*
 
 ## Contents
-1. [Learning Objectives and Introduction](#learning-objectives)
-2. [History and Intentions of the Open Source Movement](#history-and-intentions-of-the-open-source-movement)
-3. [Open Source AI](#open-source-ai)
-4. [Stakeholder 1: Consumers](#stakeholder-1-consumers)
-5. [Stakeholder 2: Developers](#stakeholder-2-developers)
-6. [Open Source: Profit Motives](#open-source-for-the-people-under-capitalism)
-7. [Conclusion and Discussion Questions](#conclusion-the-future-open-source-as-ideology)
-9. [Works Cited](#works-cited)
+1. [Learning Objectives and Introduction](/casestudy/intro)
+2. [History and Intentions of the Open Source Movement](/casestudy/history)
+3. [Open Source AI](/casestudy/ai)
+4. [Stakeholder 1: Consumers](/casestudy/stakeholder-consumers)
+5. [Stakeholder 2: Developers](/casestudy/stakeholder-developers)
+6. [Open Source: Profit Motives](/casestudy/profit-motives)
+7. [Conclusion and Discussion Questions](/casestudy/conclusion)
+9. [Works Cited](/casestudy/citations)
 
