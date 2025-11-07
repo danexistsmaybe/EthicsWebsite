@@ -14,7 +14,7 @@ I will write this last.
 *Read the full article [here](/EthicsWebsite/casestudy/full).*
 
 ## Contents
-1. [Learning Objectives and Introduction](/EthicsWebsite/casestudy/intro)
+1. [Learning Objectives and Introduction](/EthicsWebsite/subpages/intro)
 2. [History and Intentions of the Open Source Movement](/EthicsWebsite/casestudy/history)
 3. [Open Source AI](/EthicsWebsite/casestudy/ai)
 4. [Stakeholder 1: Consumers](/EthicsWebsite/casestudy/stakeholder-consumers)
