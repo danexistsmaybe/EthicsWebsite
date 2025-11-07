@@ -11,7 +11,7 @@ I will write this last.
 
 *Student researcher at St. Olaf College*
 
-*Read the full article [here](../_casestudy/casestudy).
+*Read the full article [here](/casestudy/full).
 
 ## Contents
 1. [Learning Objectives and Introduction](#learning-objectives)

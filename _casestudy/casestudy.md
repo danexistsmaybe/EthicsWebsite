@@ -1,6 +1,7 @@
 ---
+permalink: /casestudy/full
 title: "Case Study"
-layout: default
+author_profile: true
 ---
 
 ## Abstract
