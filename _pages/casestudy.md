@@ -4,6 +4,12 @@ title: "Case Study Landing Page"
 author_profile: true
 ---
 
+<style>
+	.serif, #serif, h1, h2, h3, h4, h5, h6, h7, h8, h9, p, meta, li {
+		font-family: Georgia, "Times New Roman", Times, serif;
+	}
+</style>
+
 ## Abstract
 I will write this last.
 
