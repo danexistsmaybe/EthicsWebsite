@@ -5,8 +5,6 @@ author_profile: true
 ---
 
 ## Open Source AI
-*The current state of AI, and how Deepseek is different*
-
 Throughout 2024, AI primarily remained closed source, and big tech was making increasingly aggressive moves to secure its investments and dominate the industry. The industry ecosystem was primarily composed of three layers, with smaller AI startups leading the charge, tech giants -- primarily Microsoft, Google, and Amazon -- investing billions and performing the majority of computation, and, finally, a small, open source group of investors and platforms that lag far behind. On the surface, it may appear as though the prominence of smaller startups points to competitive diversity within the artificial intelligence industry, but one event in November of 2023 year demonstrated how this is not true \[Make No Mistake...\]. 
 
 In late November, Sam Altman, who remains at the helm as OpenAI's CEO today, was fired by the board and then rehired a few days later. His removal followed from an inherent fission in the company, one that began all the way back in 2019. One year prior, Elon Musk, a prominent backer of the startup, quit the board and stopped his funding. At this point, the company broke away from its non-profit, independent, ideal-focused roots -- at least in part -- and established a for-profit wing that was open to investment. ... Continue to explain how big tech has a strangle-hold on the startups \[NPR article\]. 
@@ -17,18 +15,11 @@ While there is significant overlap between software development and machine lear
 
 > “Because it’s a black box, even if I tell you that LLaMa 2, or GPT-4 for that matter, has a problem with hallucinating, even in a narrow domain, it’s not obvious,” says Bommasani, a professor at Stanford. “I can’t go to line 43 of the code and change something and it’s fixed. First of all, the intervention might require retraining the model, which is much more capital intensive than going to fix some lines of code” [Goth 13]. 
 
-Thus, models may be open source to various degrees. A fully open source model leaves source code, training datasets, model architecture, and the trained model open to the public, so that the specific methods used to produce that model can be reproduced and examined. An open weight model provides its trained parameters but not the steps nor data that were used to produce those parameters, and this is how DeepSeek is distributed. Specifically, DeepSeek typically uses a licence published by MIT, which is extremely permissive and includes the permission to sell the model [https://github.com/deepseek-ai/DeepSeek-Coder/blob/main/LICENSE-CODE]. 
+Thus, models may be open source to various degrees. A fully open source model leaves source code, training datasets, model architecture, and the trained model open to the public, so that the specific methods used to produce that model can be reproduced and examined. An open weight model provides its trained parameters but not the steps nor data that were used to produce those parameters, and this is how DeepSeek is distributed. Specifically, DeepSeek typically uses a licence published by MIT, which is extremely permissive and includes the permission to sell the model [https://github.com/deepseek-ai/DeepSeek-Coder/blob/main/LICENSE-CODE]. *Argument about which country is predicated on which open source software.*
 
-*Is open source AI realistic?*
+There are also growing movements from the public and academic sectors to, at the very least, make artificial intelligence a more collaborative industry. For example, in October of 2023, the NSF, under direction from the White House, committed $2.6 billion towards a National Artificial Intelligence Research Resource (NAIRR), with the stated goal of improving open access to the resources necessary for research and development of artificial intelligence. This approach has been more popular in Europe, where the EU has been investing $1 billion annually into the development of European data centers and AI development, which they stipulate "are open for the participation of all organizations and individuals" \[Goth 13\]. As previously described, the future and potential of open source AI hinges on the ability for a diversified community to form around development, and this can only happen when access to computing resources is not confined to the servers of three big tech companies. With more efficient models as illustrated by DeepSeek and more public and academic investment in open computing resources, open source AI will continue to become more and more realistic. However, this may be akin to opening up Pandora's box.
 
-G. Goth, “Can Artificial Intelligence be Open Sourced?,” Communications of the ACM, vol. 67, issue 8, pp. 11-13, 2024.
-
-*Is open source AI dangerous?*
-
-D. Harris, “Open-Source AI is Uniquely Dangerous,” IEEE Spectrum, Jan 12, 2024.
-
-*Analysis of open weighted vs open source AI, the openness of AI libraries, academic research*
-
-Will mostly use personal experience for this and find sources as necessary
+### The Dangers of Open Source AI
+\[Harris\]
 
 Transition: Consumers vs Developers

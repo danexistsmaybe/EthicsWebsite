@@ -12,6 +12,6 @@ J. Gonzalez-Barahona, “A Brief History of Free, Open Source Software and its C
 Will need another source for this. However, I think I should wait to get closer to this section before going super in depth on it.
 
 ## Discussion Questions
-1. What?
+1. Who
 2. What?
 3. What?
