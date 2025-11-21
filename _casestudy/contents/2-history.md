@@ -104,13 +104,13 @@ author_profile: true
 </div>
 
 <div class="nav-buttons">
-	<a href="/subpages/intro">
+	<a href="/EthicsWebsite/subpages/intro">
 	<div class="nav-left">
 		&larr; Back
 	</div>
 	</a>
 
-	<a href="/subpages/ai">
+	<a href="/EthicsWebsite/subpages/ai">
 	<div class="nav-right">
 		Next &rarr;
 	</div>
@@ -121,14 +121,14 @@ author_profile: true
 </div>
 
 <div class="moment" id="moment1"></div>
-<img class="moment-image" id="moment-image1" src="/files/sam.jpg" width = "300"/>
+<img class="moment-image" id="moment-image1" src="/EthicsWebsite/files/sam.jpg" width = "300"/>
 <div class="moment-text" id="moment-text1">
 	<span class="moment-title">1982: Sorry</span>
 	<span class="moment-body">It took quite awhile to code this from scratch! I have sources, info, etc., I just need to plug in the content. For now, I hope this proof of concept will suffice.</span>
 </div>
 
 <div class="moment" id="moment2"></div>
-<img class="moment-image" id="moment-image2" src="/files/apache.jpg" width = "300"/>
+<img class="moment-image" id="moment-image2" src="/EthicsWebsite/files/apache.jpg" width = "300"/>
 <div class="moment-text" id="moment-text2">
 	<span class="moment-title">Hiya</span>
 	<span class="moment-body">This is an example</span>
@@ -140,6 +140,7 @@ author_profile: true
 	<span class="moment-body">This is an example</span>
 </div>
 
+{% raw %}
 <script>
 var vel = 0;
 var pos = 0;
@@ -167,17 +168,12 @@ function hump2(x) {
 }
 
 
-// Setup
-
-
-
 function animate(event) {
 	if (event.type=="wheel") var dir = event.deltaY;
 	else {
 		var dir = lastpos - event.touches[0].clientY;
 		lastpos = event.touches[0].clientY;
 	}
-	//scroll_index = Math.max(0,scroll_index + 1*dir);
 
 	vel+=0.01*dir;
 	if (vel>6) vel = 6;
@@ -216,3 +212,5 @@ setInterval(mainloop, 10);
 
 document.getElementById("moment2").style.left = "4vw"
 </script>
+{% endraw %}
+
