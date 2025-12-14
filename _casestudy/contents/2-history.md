@@ -51,7 +51,7 @@ author_profile: true
 		top: 78vh;
 		align-items: center;  
    		text-align: center;   
-		width: 30vw;
+		width: 45vw;
 	}
 
 	.moment-title {
