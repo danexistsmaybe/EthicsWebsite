@@ -1,6 +1,9 @@
 var vel = 0;
 var pos = 0;
 
+var max = 10000000000000000;
+var min = 0;
+
 function setleft(id_, val_) {
 	document.getElementById(id_).style.left = val_;
 }
@@ -42,6 +45,7 @@ window.addEventListener('wheel', animate);
 function mainloop() {
 	// Physics
 	pos += vel;
+	pos = Math.max(Math.min(pos, max), min);
 	vel = .95*vel;
 
 
