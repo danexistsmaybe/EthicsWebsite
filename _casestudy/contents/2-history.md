@@ -124,20 +124,21 @@ author_profile: true
 <img class="moment-image" id="moment-image1" src="/EthicsWebsite/files/SHARE.png" width = "300"/>
 <div class="moment-text" id="moment-text1">
 	<span class="moment-title">1960s</span>
-	<span class="moment-body">Most software is more or less open source. Much of it is produced in research settings and freely distributed among software circles. For the industry, hardware is typically positioned as the product, all software included. One example is IBM's share, which freely distributed source code at public libraries.</span>
+	<span class="moment-body">Most software is more or less open source. Much of it is produced in research settings and freely distributed among software circles. For the industry, hardware is typically positioned as the product, all software included. One example is IBM's SHARE group, which freely distributed source code at public libraries.</span>
 </div>
 
 <div class="moment" id="moment2"></div>
-<img class="moment-image" id="moment-image2" src="/EthicsWebsite/files/apache.jpg" width = "300"/>
+<img class="moment-image" id="moment-image2" src="/EthicsWebsite/files/IBM.gif" width = "300"/>
 <div class="moment-text" id="moment-text2">
-	<span class="moment-title">Hiya</span>
-	<span class="moment-body">This is an example</span>
+	<span class="moment-title">1969</span>
+	<span class="moment-body">IBM announces the unbundling of its software, which starts the software industry as a competitive market. Throughout the 1970s, the software ecosystem would unfold and methods of privatization would develop.</span>
 </div>
 
 <div class="moment" id="moment3"></div>
+<img class="moment-image" id="moment-image2" src="/EthicsWebsite/files/UNIX.gif" width = "300"/>
 <div class="moment-text" id="moment-text3">
-	<span class="moment-title">Hiya</span>
-	<span class="moment-body">This is an example</span>
+	<span class="moment-title">1972</span>
+	<span class="moment-body">The UNIX kernel is developed at AT&T Bell Labs. It is not free to distribute, but it is distributed to some university with a free use licence.</span>
 </div>
 
 <script src="/EthicsWebsite/files/interactive.js"></script>
