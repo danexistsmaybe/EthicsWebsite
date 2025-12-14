@@ -18,3 +18,5 @@ D. Harris, “Open-Source AI is Uniquely Dangerous,” IEEE Spectrum, Jan 12, 20
 G. Goth, “Can Artificial Intelligence be Open Sourced?,” Communications of the ACM, vol. 67, issue 8, pp. 11-13, 2024.
 
 J. Gonzalez-Barahona, “A Brief History of Free, Open Source Software and its Communities,” IEEE, Computer, vol. 54, pp. 75-79, 2021.
+
+https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html

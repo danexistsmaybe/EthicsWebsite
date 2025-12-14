@@ -104,25 +104,25 @@ function mainloop() {
 	// moment 9
 	setleft("moment9", (50 - .001*((pos - 800)**3))+"vw");
 	setheight("moment9", (30 + 50*hump(pos - 800)) + "px");
-	setheight("moment9", (30 + 50*hump(pos - 800)) + "px");
+	setheight("moment-image9", (30 + 50*hump(pos - 800)) + "px");
 	setleft("moment-text9", (50 - .001*((pos - 800)**3))+"vw");
 
 		// moment 10
 	setleft("moment10", (50 - .001*((pos - 900)**3))+"vw");
 	setheight("moment10", (30 + 50*hump(pos - 900)) + "px");
-	setheight("moment10", (30 + 50*hump(pos - 900)) + "px");
+	setheight("moment-image10", (30 + 50*hump(pos - 900)) + "px");
 	setleft("moment-text10", (50 - .001*((pos - 900)**3))+"vw");
 
 		// moment 11
 	setleft("moment11", (50 - .001*((pos - 1000)**3))+"vw");
 	setheight("moment11", (30 + 50*hump(pos - 1000)) + "px");
-	setheight("moment11", (30 + 50*hump(pos - 1000)) + "px");
+	setheight("moment-image11", (30 + 50*hump(pos - 1000)) + "px");
 	setleft("moment-text11", (50 - .001*((pos - 1000)**3))+"vw");
 
 	// moment 12
 	setleft("moment12", (50 - .001*((pos - 1100)**3))+"vw");
 	setheight("moment12", (30 + 50*hump(pos - 1100)) + "px");
-	setheight("moment12", (30 + 50*hump(pos - 1100)) + "px");
+	setheight("moment-image12", (30 + 50*hump(pos - 1100)) + "px");
 	setleft("moment-text12", (50 - .001*((pos - 1100)**3))+"vw");
 }
 
