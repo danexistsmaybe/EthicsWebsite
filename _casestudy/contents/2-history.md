@@ -135,10 +135,24 @@ author_profile: true
 </div>
 
 <div class="moment" id="moment3"></div>
-<img class="moment-image" id="moment-image2" src="/EthicsWebsite/files/UNIX.gif" width = "300"/>
+<img class="moment-image" id="moment-image3" src="/EthicsWebsite/files/UNIX.png" width = "300"/>
 <div class="moment-text" id="moment-text3">
 	<span class="moment-title">1972</span>
 	<span class="moment-body">The UNIX kernel is developed at AT&T Bell Labs. It is not free to distribute, but it is distributed to some university with a free use licence.</span>
+</div>
+
+<div class="moment" id="moment4"></div>
+<img class="moment-image" id="moment-image4" src="/EthicsWebsite/files/TEX.png" width = "300"/>
+<div class="moment-text" id="moment-text4">
+	<span class="moment-title">1978</span>
+	<span class="moment-body">Donald Knuth develops TeX, a typesetting system that would go on to become the LaTeX we all know and love. At the time, it was freely distributed with a prototype open source licence, and was one of the first widely used packages with such a licence.</span>
+</div>
+
+<div class="moment" id="moment5"></div>
+<img class="moment-image" id="moment-image5" src="/EthicsWebsite/files/GNU.svg" width = "300"/>
+<div class="moment-text" id="moment-text5">
+	<span class="moment-title">1983</span>
+	<span class="moment-body">Richard Stallman, a researcher at the MIT lab for artificial intelligence, quits his job and announces the GNU project. The goal of the project is to produce a UNIX-like operating system composed entirely of free software. </span>
 </div>
 
 <script src="/EthicsWebsite/files/interactive.js"></script>

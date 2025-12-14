@@ -66,6 +66,16 @@ function mainloop() {
 	setleft("moment3", (50 - .001*((pos - 200)**3))+"vw");
 	setheight("moment3", (30 + 50*hump(pos - 200)) + "px");
 	setleft("moment-text3", (50 - .001*((pos - 200)**3))+"vw");
+
+	// moment 4
+	setleft("moment4", (50 - .001*((pos - 300)**3))+"vw");
+	setheight("moment4", (30 + 50*hump(pos - 300)) + "px");
+	setleft("moment-text4", (50 - .001*((pos - 300)**3))+"vw");
+
+	// moment 5
+	setleft("moment5", (50 - .001*((pos - 400)**3))+"vw");
+	setheight("moment5", (30 + 50*hump(pos - 400)) + "px");
+	setleft("moment-text5", (50 - .001*((pos - 400)**3))+"vw");
 }
 
 setInterval(mainloop, 10);
