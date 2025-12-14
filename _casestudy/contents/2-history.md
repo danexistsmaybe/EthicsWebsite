@@ -184,7 +184,7 @@ author_profile: true
 </div>
 
 <div class="moment" id="moment9"></div>
-<img class="moment-image" id="moment-image9" src="/EthicsWebsite/files/GNU.svg" width = "300"/>
+<img class="moment-image" id="moment-image9" src="/EthicsWebsite/files/linux.svg" width = "300"/>
 <div class="moment-text" id="moment-text9">
 	<span class="moment-title">1994</span>
 	<span class="moment-body">Linus Torvalds releases the Linux kernel, to which the GNU software is swiftly ported. Now the entire operating system can be run and distributed for free. Furthermore, groups like Debian and Red Hat begin releasing their own distributions of Linux, beginning the open source ecosystem.</span>
