@@ -5,9 +5,8 @@ author_profile: true
 ---
 
 ## Stakeholder 1: Consumers
-*Not open source and overspending; what will happen when the bubble pops?*
+*Open Source and the AI Bubble*
 
-Find a source about overspending on AI
 
 *Application of previous section to this particular stakeholder*
 

@@ -32,11 +32,14 @@ author_profile: true
 		top: calc(65vh);
 		border: 1px solid black;
 		transform: translate(-50%, -50%);
+		top: -100vh;
+		left: -100vw;
 	}
 
 	.moment-image {
 		z-index: 1;
 		position: absolute;
+		opacity: 0;
 		top: calc(38vh);
 		transform: translate(-50%, -50%);
 		left: 50vw;
@@ -59,14 +62,10 @@ author_profile: true
 	.moment-title {
 		font-weight: bold;
 		font-size: 24px;
-		top: -100vh;
-		left: -100vw;
 	}
 
 	.moment-body {
 		font-size: 14px;
-		top: -100vh;
-		left: -100vw;
 	}
 
 	.nav-buttons {
