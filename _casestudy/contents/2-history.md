@@ -32,7 +32,6 @@ author_profile: true
 		top: calc(65vh);
 		border: 1px solid black;
 		transform: translate(-50%, -50%);
-		top: -100vh;
 		left: -100vw;
 	}
 
@@ -55,7 +54,6 @@ author_profile: true
 		align-items: center;  
    		text-align: center;   
 		width: 45vw;
-		top: -100vh;
 		left: -100vw;
 	}
 
