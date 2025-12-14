@@ -65,16 +65,19 @@ function mainloop() {
 	// moment 3
 	setleft("moment3", (50 - .001*((pos - 200)**3))+"vw");
 	setheight("moment3", (30 + 50*hump(pos - 200)) + "px");
+	setopacity("moment-image3", 4 - .01*(pos - 200)**2);
 	setleft("moment-text3", (50 - .001*((pos - 200)**3))+"vw");
 
 	// moment 4
 	setleft("moment4", (50 - .001*((pos - 300)**3))+"vw");
 	setheight("moment4", (30 + 50*hump(pos - 300)) + "px");
+	setopacity("moment-image4", 4 - .01*(pos - 300)**2);
 	setleft("moment-text4", (50 - .001*((pos - 300)**3))+"vw");
 
 	// moment 5
 	setleft("moment5", (50 - .001*((pos - 400)**3))+"vw");
 	setheight("moment5", (30 + 50*hump(pos - 400)) + "px");
+	setopacity("moment-image4", 4 - .01*(pos - 100)**2);
 	setleft("moment-text5", (50 - .001*((pos - 400)**3))+"vw");
 }
 

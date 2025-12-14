@@ -155,4 +155,5 @@ author_profile: true
 	<span class="moment-body">Richard Stallman, a researcher at the MIT lab for artificial intelligence, quits his job and announces the GNU project. The goal of the project is to produce a UNIX-like operating system composed entirely of free software. </span>
 </div>
 
+
 <script src="/EthicsWebsite/files/interactive.js"></script>
