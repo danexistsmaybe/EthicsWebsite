@@ -121,10 +121,10 @@ author_profile: true
 </div>
 
 <div class="moment" id="moment1"></div>
-<img class="moment-image" id="moment-image1" src="/EthicsWebsite/files/sam.jpg" width = "300"/>
+<img class="moment-image" id="moment-image1" src="/EthicsWebsite/files/SHARE.png" width = "300"/>
 <div class="moment-text" id="moment-text1">
-	<span class="moment-title">1982: Sorry</span>
-	<span class="moment-body">It took quite awhile to code this from scratch! I have sources, info, etc., I just need to plug in the content. For now, I hope this proof of concept will suffice.</span>
+	<span class="moment-title">1960s</span>
+	<span class="moment-body">Most software is more or less open source. Much of it is produced in research settings and freely distributed among software circles. For the industry, hardware is typically positioned as the product, all software included. One example is IBM's share, which freely distributed source code at public libraries.</span>
 </div>
 
 <div class="moment" id="moment2"></div>
