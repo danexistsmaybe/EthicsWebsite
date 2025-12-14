@@ -138,7 +138,7 @@ author_profile: true
 <img class="moment-image" id="moment-image3" src="/EthicsWebsite/files/UNIX.png" width = "300"/>
 <div class="moment-text" id="moment-text3">
 	<span class="moment-title">1972</span>
-	<span class="moment-body">The UNIX kernel is developed at AT&T Bell Labs. It is not free to distribute, but it is distributed to some university with a free use licence.</span>
+	<span class="moment-body">The UNIX operating system is developed at AT&T Bell Labs. It is not free to distribute, but it is distributed to some university with a free use licence.</span>
 </div>
 
 <div class="moment" id="moment4"></div>
@@ -155,5 +155,29 @@ author_profile: true
 	<span class="moment-body">Richard Stallman, a researcher at the MIT lab for artificial intelligence, quits his job and announces the GNU project. The goal of the project is to produce a UNIX-like operating system composed entirely of free software. </span>
 </div>
 
+<div class="moment" id="moment6"></div>
+<div class="moment-text" id="moment-text6">
+	<span class="moment-title">1987</span>
+	<span class="moment-body">By this point, the GNU project had produced the text editor Emacs, its own compiler, a debugger, and several other packages. This allowed anyone to develop their own programs for the system, and Richard established the Free Software Foundation in 1985 off of the wave of his success.</span>
+</div>
+
+<div class="moment" id="moment7"></div>
+<div class="moment-text" id="moment-text7">
+	<span class="moment-title">1989</span>
+	<span class="moment-body">The GNU project releases their unified open source software licence: the GNU General Public License. It establishes "four freedoms:" free to use, free to study and modify, free to distribute, and free to distribute modified versions.</span>
+</div>
+
+<div class="moment" id="moment8"></div>
+<div class="moment-text" id="moment-text8">
+	<span class="moment-title">1990</span>
+	<span class="moment-body">The GNU General Public Licence is considered innovative in that it uses copyright law to protect freedoms. By 1990, the operating system was almost complete: it just lacked a kernel to run on.</span>
+</div>
+
+<div class="moment" id="moment5-1"></div>
+<img class="moment-image" id="moment-image5-1" src="/EthicsWebsite/files/XWindow.svg" width = "300"/>
+<div class="moment-text" id="moment-text5-1">
+	<span class="moment-title">1986</span>
+	<span class="moment-body">The GNU General Public Licence is considered innovative in that it uses copyright law to protect freedoms. By 1990, the operating system was almost complete: it just lacked a kernel to run on.</span>
+</div>
 
 <script src="/EthicsWebsite/files/interactive.js"></script>

@@ -71,14 +71,34 @@ function mainloop() {
 	// moment 4
 	setleft("moment4", (50 - .001*((pos - 300)**3))+"vw");
 	setheight("moment4", (30 + 50*hump(pos - 300)) + "px");
-	setopacity("moment-image4", 4 - .01*(pos - 300)**2);
+	setopacity("moment-image4", 4 - .01*(pos - 300)*(pos-700));
 	setleft("moment-text4", (50 - .001*((pos - 300)**3))+"vw");
 
 	// moment 5
 	setleft("moment5", (50 - .001*((pos - 400)**3))+"vw");
 	setheight("moment5", (30 + 50*hump(pos - 400)) + "px");
-	setopacity("moment-image4", 4 - .01*(pos - 100)**2);
 	setleft("moment-text5", (50 - .001*((pos - 400)**3))+"vw");
+
+	// moment 5
+	setleft("moment5-1", (50 - .001*((pos - 450)**3))+"vw");
+	setheight("moment5-1", (30 + 50*hump(pos - 450)) + "px");
+	setopacity("moment-image5-1", 4 - .01*(pos - 450)**2);
+	setleft("moment-text5-1", (50 - .001*((pos - 450)**3))+"vw");
+	
+	// moment 6
+	setleft("moment6", (50 - .001*((pos - 500)**3))+"vw");
+	setheight("moment6", (30 + 50*hump(pos - 500)) + "px");
+	setleft("moment-text6", (50 - .001*((pos - 500)**3))+"vw");
+
+	// moment 7
+	setleft("moment7", (50 - .001*((pos - 600)**3))+"vw");
+	setheight("moment7", (30 + 50*hump(pos - 600)) + "px");
+	setleft("moment-text7", (50 - .001*((pos - 600)**3))+"vw");
+
+	// moment 8
+	setleft("moment8", (50 - .001*((pos - 700)**3))+"vw");
+	setheight("moment8", (30 + 50*hump(pos - 700)) + "px");
+	setleft("moment-text8", (50 - .001*((pos - 700)**3))+"vw");
 }
 
 setInterval(mainloop, 10);
