@@ -23,5 +23,6 @@ But wait! There's more! Open source can be applied to governance as well. This i
 9. If you are a developer, how have your experiences been shaped by open source software? Do you think your journey would have been easier if more software was open source?
 10. In a recently given speech, Linus Torvalds, developer of the open source Linux operating system and the open source DevOps management software Git, said, 
 > “In the tech industry, so much is about the hype. Everybody is following everybody else like lemmings off a cliff, trying to chase the next big thing, and I don’t think that’s a successful strategy. I think you need to find something that isn’t what everybody else does and excel at that and be the first to do something slightly different.” 
+
 Does open source development have a place in "hype" areas of tech? Do you feel motivated to participate in open source? In what ways can open source distribution be incentivized? 
 11. Is there anything outside of software that you can imagine open source being applied to? What makes it more difficult, and are there any solutions? Would it be productive?
