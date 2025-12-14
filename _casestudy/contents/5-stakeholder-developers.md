@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/stakeholder-developers
+permalink: /subpages/stakeholder-developers
 title: "Stakeholder 2: Developers"
 author_profile: true
 ---
