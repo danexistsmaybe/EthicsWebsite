@@ -74,10 +74,10 @@ function mainloop() {
 	setopacity("moment-image4", 4 - .01*(pos - 300)**2);
 	setleft("moment-text4", (50 - .001*((pos - 300)**3))+"vw");
 
-	// moment 5
+	// moment 5: GNU
 	setleft("moment5", (50 - .001*((pos - 400)**3))+"vw");
 	setheight("moment5", (30 + 50*hump(pos - 400)) + "px");
-	setopacity("moment-image5", 4 - .01*(pos - 400)*(pos - 700));
+	setopacity("moment-image5", 4 - .01*(pos - 370)*(pos - 715));
 	setleft("moment-text5", (50 - .001*((pos - 400)**3))+"vw");
 
 	// moment 5
