@@ -52,15 +52,21 @@ author_profile: true
 		align-items: center;  
    		text-align: center;   
 		width: 45vw;
+		top: -100vh;
+		left: -100vw;
 	}
 
 	.moment-title {
 		font-weight: bold;
 		font-size: 24px;
+		top: -100vh;
+		left: -100vw;
 	}
 
 	.moment-body {
 		font-size: 14px;
+		top: -100vh;
+		left: -100vw;
 	}
 
 	.nav-buttons {
@@ -177,7 +183,37 @@ author_profile: true
 <img class="moment-image" id="moment-image5-1" src="/EthicsWebsite/files/XWindow.svg" width = "300"/>
 <div class="moment-text" id="moment-text5-1">
 	<span class="moment-title">1986</span>
-	<span class="moment-body">The GNU General Public Licence is considered innovative in that it uses copyright law to protect freedoms. By 1990, the operating system was almost complete: it just lacked a kernel to run on.</span>
+	<span class="moment-body">While GNU is still in development, X Windows is released as a collaborative project by both academia and industry, using a similarly free license. This is an early example of companies like IBM being benefited by the unpaid improvement of software by other sources.</span>
 </div>
+
+<div class="moment" id="moment9"></div>
+<img class="moment-image" id="moment-image9" src="/EthicsWebsite/files/GNU.svg" width = "300"/>
+<div class="moment-text" id="moment-text9">
+	<span class="moment-title">1994</span>
+	<span class="moment-body">Linus Torvalds releases the Linux kernel, to which the GNU software is swiftly ported. Now the entire operating system can be run and distributed for free. Furthermore, groups like Debian and Red Hat begin releasing their own distributions of Linux, beginning the open source ecosystem.</span>
+</div>
+
+<div class="moment" id="moment10"></div>
+<img class="moment-image" id="moment-image10" src="/EthicsWebsite/files/IE.svg" width = "300"/>
+<div class="moment-text" id="moment-text10">
+	<span class="moment-title">1994-1997</span>
+	<span class="moment-body">As the consumer computing market begins to expand exponentially, proprietary software remains dominant in all areas besides niche, highly technical uses. This is highly characterized by Microsoft's applications, particularly Internet Explorer, one of the few consumer web browsers.</span>
+</div>
+
+<div class="moment" id="moment11"></div>
+<img class="moment-image" id="moment-image11" src="/EthicsWebsite/files/apache.jpg" width = "300"/>
+<div class="moment-text" id="moment-text11">
+	<span class="moment-title">1999</span>
+	<span class="moment-body">The term open source is coined as an alternative to proprietary software. The Apache foundation is formed during this year, and they produce the Apache HTTP server. Some of their members are employees of companies with a clear interest in Apache projects.</span>
+</div>
+
+<div class="moment" id="moment12"></div>
+<img class="moment-image" id="moment-image12" src="/EthicsWebsite/files/firefox.jpg" width = "300"/>
+<div class="moment-text" id="moment-text12">
+	<span class="moment-title">2003</span>
+	<span class="moment-body">The Mozilla foundation is formed, which will go on to produce Firefox. They are funded by industry companies like, ironically, Google, and maintain a base of paid employees.</span>
+</div>
+
+
 
 <script src="/EthicsWebsite/files/interactive.js"></script>
