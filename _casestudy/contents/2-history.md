@@ -205,10 +205,10 @@ author_profile: true
 </div>
 
 <div class="moment" id="moment12"></div>
-<img class="moment-image" id="moment-image12" src="/EthicsWebsite/files/firefox.jpg" width = "300"/>
+<img class="moment-image" id="moment-image12" src="/EthicsWebsite/files/firefox.svg" width = "300"/>
 <div class="moment-text" id="moment-text12">
 	<span class="moment-title">2003</span>
-	<span class="moment-body">The Mozilla foundation is formed, which will go on to produce Firefox. They are funded by industry companies like, ironically, Google, and maintain a base of paid employees \[7\].</span>
+	<span class="moment-body">The Mozilla foundation is formed, which will go on to produce Firefox. They are funded by industry companies like, ironically, Google, and maintain a base of paid employees [7].</span>
 </div>
 
 
