@@ -1,6 +1,6 @@
 ---
 permalink: /casestudy/
-title: "Case Study Landing Page"
+title: "Open Source & AI: How to Distribute Models Ethically"
 author_profile: true
 ---
 
